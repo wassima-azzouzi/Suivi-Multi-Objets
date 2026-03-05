@@ -24,7 +24,7 @@ Le système inclut une logique de **comptage automatique** :
 
 
 
-## 🛠 Installation
+##  Installation
 
 1. Clonez ce dépôt.
 2. Installez les dépendances :
@@ -35,7 +35,7 @@ Le système inclut une logique de **comptage automatique** :
 
 ##  Structure du Projet
 
-- `version_final_YOLOv8_TP9 .ipynb` : Le notebook principal contenant toute la logique.
+- `version_final_YOLOv8_DeepSort.ipynb` : Le notebook principal contenant toute la logique.
 - `README.md` : Documentation du projet.
 - `.gitignore` : Gestion des fichiers à exclure du versionnage.
 
