@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large files and datasets
+*.mp4
+*.zip
+*.t7
+*.pt
+deep_sort_pytorch/
+YOLOv8-DeepSORT-Object-Tracking/
+
+# OS
+.DS_Store
+Thumbs.db
